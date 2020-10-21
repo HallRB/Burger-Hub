@@ -1,13 +1,8 @@
--- drops db if it already exists --
-DROP DATABASE IF EXISTS eataburger
+-- Create the database eatdaburger_db.
+CREATE DATABASE eatdaburger_db;
+USE eatdaburger_db;
 
--- creates db "eatadburger"
-CREATE DATABASE eatdaburger;
-
---use the db "eataburger":
-USE eatdaburger;
-
---create table for db "eataburger"
+-- Create the table burgers.
 CREATE TABLE burgers
 (
     id INT NOT NULL AUTO_INCREMENT,
