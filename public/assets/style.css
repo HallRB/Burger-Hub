@@ -1,28 +1,67 @@
+body {
+    background-color: black;
+}
+
+html {
+    background-color: black;
+    color: black;
+}
+
+#burgerhubtitle {
+    font-size: 75px;
+}
+
+.container {
+    background-color: black;
+}
+
+.background {
+    background-color: black;
+}
+
 .jumbotron {
-    background-image: url("/assets/img/background.jpg");
-    background-repeat: no-repeat;
+    background-image: url("../images/burgerlove.jpg");
+    background-repeat: repeat-y;
     background-position: center;
     background-size: cover;
     margin-top: 10px;
+    font-family: 'Fredoka One', cursive;   
 }
 
 .jumbotron > h1 {
-    font-family: 'Creepster', cursive;
+    font-family: 'Fredoka One', cursive;
+    font-style: rgb(255, 255, 255);
 }
 
 #newburger {
     border-radius: 5px;
+    background-color: black;
+    color: orange;
+    width: 400px;
+    height: 50px;
+    font-size: xx-large;
+}
+
+#hub {
+    color: orange;
+    text-align: left;
+}
+
+.panel-body {
+    font-size: 30px;
 }
 
 #color-override {
-    color: #fff;
+    color: rgb(255, 255, 255);
 }
 
 #lefthead {
-    background-color: #5cb85c;
+    background-color: black;
     color: white;
     text-align: center;
+    font-family: 'Fredoka One', cursive;
     font-size: 1.2em;
+    font-size: 40px;
 }
 
 #eatbutton, #trashbutton {
@@ -30,10 +69,48 @@
 }
 
 #righthead {
-    background-color: #f0ad4e;
-    color: white;
+    background-color: rgb(255, 135, 36);
+    color: black;
     text-align: center;
+    font-family: 'Fredoka One', cursive;
     font-size: 1.2em;
+    font-size: 40px;
 }
 
+#addburger {
+    background-color: black;
+    border-color: orange;
+    margin-bottom: 10px;
+}
+
+#eatbutton {
+    background-image: url("../images/lips.JPG");
+    background-size: 50px;
+    background-repeat:no-repeat;
+    background-color: white;
+    border-color: white;
+    width: 50px;
+    height: 50px;
+}
+
+#trash {
+    background-image: url("../images/trash.JPG");
+    background-size: 50px;
+    background-repeat:no-repeat;
+    background-color: white;
+    border-color: white;
+    color: white;
+    width: 50px;
+    height: 50px;
+}
+
+#trashbutton {
+    background-color: white;
+    border-color: white;
+}
+
+.trashburger {
+    background-color: white;
+    border-color: white;
+}
 /* merge */
