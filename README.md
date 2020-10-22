@@ -29,7 +29,6 @@
          1. clone the repository to your local machine
       <li class="list-group-item">
          2. open the terminal in VsCode and change directory to the main folder
-<li class="list-group-item">
 <li class="list-group-item">         3. enter "npm install"
  <li class="list-group-item">        4. enter "npm install express"
    <li class="list-group-item">      5. enter "npm install body-parser"
