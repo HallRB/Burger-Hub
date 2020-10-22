@@ -14,15 +14,6 @@
     <h3>Description</h3>
         <ul class="list-group">
     <li class="list-group-item">This app allows the user to enter in whatever type of burger they want to make.  Once the burger is made, it will appear ready to be devoured.  Once the burger is devoured, the user can clean up the mess.</li>
-    <h3>Table of Contents</h3>
-       <ul class="list-group">
-    <li class="list-group-item">
-         Installation
-         Usage
-         Lecense
-         Contributing
-         Tests
-         Contact Info</li>
     <h3>Installation</h3>
        <ul class="list-group">
     <li class="list-group-item">
