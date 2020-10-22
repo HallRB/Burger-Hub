@@ -27,16 +27,18 @@
        <ul class="list-group">
     <li class="list-group-item">
          1. clone the repository to your local machine
+      <li class="list-group-item">
          2. open the terminal in VsCode and change directory to the main folder
-         3. enter "npm install"
-         4. enter "npm install express"
-         5. enter "npm install body-parser"
-         6. enter "npm install path"
-         7. change directory to the "db" folder
-         8. enter "mysql -u root -p"
-         9. enter "source schema.sql"
-        10. enter "source seeds.sql"
-        11. enter "exit"
+<li class="list-group-item">
+<li class="list-group-item">         3. enter "npm install"
+ <li class="list-group-item">        4. enter "npm install express"
+   <li class="list-group-item">      5. enter "npm install body-parser"
+     <li class="list-group-item">    6. enter "npm install path"
+ <li class="list-group-item">        7. change directory to the "db" folder
+    <li class="list-group-item">     8. enter "mysql -u root -p"
+ <li class="list-group-item">        9. enter "source schema.sql"
+  <li class="list-group-item">      10. enter "source seeds.sql"
+<li class="list-group-item">        11. enter "exit"
     <h3>Usage</h3>
     <ul class="list-group">
     <li class="list-group-item">
