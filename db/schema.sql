@@ -1,4 +1,5 @@
 -- Create the database eatdaburger_db.
+DROP DATABASE IF EXISTS eatdaburger_db;
 CREATE DATABASE eatdaburger_db;
 USE eatdaburger_db;
 
