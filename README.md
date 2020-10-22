@@ -42,14 +42,14 @@
     <h3>Usage</h3>
     <ul class="list-group">
     <li class="list-group-item">
-      1. complete all installation steps
-      2. in the terminal, enter "node server.js"
-      3. open your browser and enter "localhost:8080" in the web bar
-      4. Under "Tell us what you want" enter in the type of burger you would like to eat
-      5. click "Let's do it"
-      6. your burger will appear under "Ready to Eat"
-      7. to consume the burger click the lips icon at the right side of the container
-      8. the consumed burger will appear under "Devoured"
+      1. complete all installation steps<li class="list-group-item">
+      2. in the terminal, enter "node server.js"<li class="list-group-item">
+      3. open your browser and enter "localhost:8080" in the web bar<li class="list-group-item">
+      4. Under "Tell us what you want" enter in the type of burger you would like to eat<li class="list-group-item">
+      5. click "Let's do it"<li class="list-group-item">
+      6. your burger will appear under "Ready to Eat"<li class="list-group-item">
+      7. to consume the burger click the lips icon at the right side of the container<li class="list-group-item">
+      8. the consumed burger will appear under "Devoured"<li class="list-group-item">
       9. click the trash icon to dispose of the waste</li>
     <h3>License</h3>
     <ul class="list-group">
