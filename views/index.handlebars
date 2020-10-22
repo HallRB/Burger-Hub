@@ -26,7 +26,7 @@
                     <ul>
                         {{#each burgers}}
                             {{#unless devoured}}
-                                <span><strong> {{this.id}} - {{this.burger_name}} </strong></span>
+                                <span><strong> <div id="hideid">{{this.id}} - </div>{{this.burger_name}} </strong></span>
                                 <button type="button" class="eatburger btn btn-warning" id ="eatbutton" data-id="{{this.id}}" data-newDevoured="{{devour}}"><span><div id="lips"></div></span></button>
                                 <hr>
                             {{/unless}}
@@ -44,7 +44,7 @@
                     <ul>
                         {{#each burgers}}
                             {{#if devoured}}
-                                <span><strong> {{this.id}} - {{this.burger_name}} </strong></span>
+                                <span><strong> <div id="hideid">{{this.id}} - </div>{{this.burger_name}} </strong></span>
                                 <button type="button" class="trashburger btn btn-danger" id ="trashbutton" data-id="{{this.id}}" data-newDevoured="{{devour}}"><span><div id="trash"></div></span></button>
                                 <hr>
                             {{/if}}

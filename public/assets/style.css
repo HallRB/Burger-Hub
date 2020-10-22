@@ -113,4 +113,8 @@ html {
     background-color: white;
     border-color: white;
 }
+
+#hideid {
+    visibility: hidden;
+}
 /* merge */
