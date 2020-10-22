@@ -55,7 +55,6 @@
     <li class="list-group-item">Github: HallRB</li>
     <li class="list-group-item">Linkedin: https://www.linkedin.com/in/richard-hall-4408501a7/</li>
     <li class="list-group-item">Email: Richardbrianhall@gmail.com</li>
-    <li class="list-group-item">
     </ul>
   </div>
 </div>
