@@ -4,7 +4,7 @@
 ####  This is a fun little app where you can type up a burger of your choice, set it ready to eat, then devour it.  Enjoy!
 
 ##  What does it look like?
-#### <img src= "/BurgerHub.JPG" width="800">
+#### <img src= "/Burgerhub.JPG" width="800">
 
 ## What technologies were used?
 #### HTML: Front End Language which displays the app
